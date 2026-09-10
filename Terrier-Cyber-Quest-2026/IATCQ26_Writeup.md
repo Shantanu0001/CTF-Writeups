@@ -1,4 +1,4 @@
-# IATCQ26 CTF Writeups
+# IATCQ26 CTF Writeup
 
 A technical write-up of the IAT Cyber Quest 2026 challenges
 investigated during the engagement.
